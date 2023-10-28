@@ -30,7 +30,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="40" height="40"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="40" height="40"/>
     </a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" width="40" height="40"/>
