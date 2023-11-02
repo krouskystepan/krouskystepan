@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Wassa website (full stack)**
 
-- 🌱 I’m currently learning **Next.js 14 Server Actions**
+- 🌱 I’m currently learning **-**
 
 - 💬 Ask me about **web development**
 
