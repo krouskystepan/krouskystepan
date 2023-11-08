@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Wassa website (full stack)**
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **Kali Linux, Networking**
 
 - 💬 Ask me about **web development**
 
