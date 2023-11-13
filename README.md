@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Štěpán Krouský</h1>
-<h3 align="center">A passionate developer from Czech Republic</h3>
+<h1 align="center" style="color: white">Hey 👋, I'm Štěpán Krouský</h1>
+<h3 align="center" style="color: white">A passionate developer from Czech Republic</h3>
 <img align="right" alt="Coding" width="400" src="./NightDev.gif"/>
 
 - 🔭 I’m currently working on **Wassa website (full stack)**
