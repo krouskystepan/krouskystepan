@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Štěpán Krouský</h1>
+<h1 align="center">Hey 👋, I'm Štěpán Krouský</h1>
 <h3 align="center">A passionate developer from Czech Republic</h3>
 <img align="right" alt="Coding" width="400" src="./NightDev.gif"/>
 
