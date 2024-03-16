@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact **Bananas are berries, but strawberries are not.**
 
-<br />
-
 <h3 align="left">My skills:</h3>
 <p align="left"">
     <img src="https://skillicons.dev/icons?i=js,ts" />
