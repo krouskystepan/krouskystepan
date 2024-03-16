@@ -1,5 +1,5 @@
 <h1 align="center" style="color: white">Hey 👋, I'm Štěpán Krouský</h1>
-<p>I'm a Full Stack Developer from Czechia.</p>
+<h5>I'm a Full Stack Developer from Czechia.</h5>
 
 - 📫 How to reach me **stepan.krousky@seznam.cz**
 
