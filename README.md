@@ -5,8 +5,8 @@
 
 - ⚡ Fun fact **Bananas are berries, but strawberries are not.**
 
-<h2 align="left">My skills:</h2>
-<p align="left"">
+<h2>My skills:</h2>
+<p>
     <img src="https://skillicons.dev/icons?i=js,ts" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
