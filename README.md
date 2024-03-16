@@ -13,7 +13,7 @@
 <br />
 
 <h3 align="left">My skills:</h3>
-<p align="left" style="display: flex, gap: 5">
+<p align="left" style="display: flex; gap: 2rem;">
     <img src="https://skillicons.dev/icons?i=js,ts" />
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
