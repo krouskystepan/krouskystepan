@@ -12,8 +12,8 @@
 
 <br />
 
-<h3 align="center">My skills:</h3>
-<p align="left">
+<h3 align="left">My skills:</h3>
+<p align="left" style="display: flex, gap: 5">
     <img src="https://skillicons.dev/icons?i=js,ts" />
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
