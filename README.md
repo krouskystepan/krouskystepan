@@ -1,10 +1,5 @@
 <h1 align="center" style="color: white">Hey 👋, I'm Štěpán Krouský</h1>
-
-- 🔭 I’m currently working on **Wassa website (full stack)**
-
-- 🌱 I’m currently learning **Kali Linux, Networking**
-
-- 💬 Ask me about **web development**
+<p>I'm a Full Stack Developer from Czechia.</p>
 
 - 📫 How to reach me **stepan.krousky@seznam.cz**
 
