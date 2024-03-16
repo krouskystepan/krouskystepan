@@ -13,10 +13,14 @@
 <br />
 
 <h3 align="left">My skills:</h3>
-<p align="left" style="display: flex; gap: 2rem;">
+<p align="left"">
     <img src="https://skillicons.dev/icons?i=js,ts" />
+    &nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
+    &nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+    &nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=express,nodejs" />
+    &nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=mui,figma" />
 </p>
