@@ -1,7 +1,7 @@
 <h1 align="center" style="color: white">Hey 👋, I'm Štěpán Krouský</h1>
 <h4>I'm a Full Stack Developer from Czechia.</h4>
 
-- 🌟 [Portfolio **krouskystepan.com**](https://krouskystepan.com)
+- 🌟 Portfolio [**krouskystepan.com**](https://krouskystepan.com)
 
 - 📫 How to reach me [**stepan.krousky@seznam.cz**](mailto:stepan.krousky@seznam.cz)
 
