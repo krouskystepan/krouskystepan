@@ -13,7 +13,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,prisma,mongodb,postgres" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=express,nodejs" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
