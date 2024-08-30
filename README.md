@@ -1,9 +1,11 @@
-<h1 align="center" style="color: white">Hey 👋, I'm Štěpán Krouský</h1>
+<h1 align="center">Hey 👋, I'm Štěpán Krouský</h1>
 <h4>I'm a Full Stack Developer from Czechia.</h4>
 
 - 🌟 Portfolio [**krouskystepan.com**](https://krouskystepan.com)
 
-- 📫 How to reach me [**stepan.krousky@seznam.cz**](mailto:stepan.krousky@seznam.cz)
+- 📫 Reach me at: [**stepan.krousky@seznam.cz**](mailto:stepan.krousky@seznam.cz)
+
+- 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/krouskystepan)
 
 - ⚡ Fun fact **Bananas are berries, but strawberries are not.**
 
