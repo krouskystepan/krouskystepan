@@ -5,7 +5,7 @@
 
 - 📫 Reach me at: [**stepan.krousky@seznam.cz**](mailto:stepan.krousky@seznam.cz)
 
-- 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/krouskystepan)
+- 💼 Connect with me on [**LinkedIn - krouskystepan**](https://www.linkedin.com/in/krouskystepan)
 
 - ⚡ Fun fact **Bananas are berries, but strawberries are not.**
 
