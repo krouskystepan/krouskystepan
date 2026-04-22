@@ -11,7 +11,7 @@
 
 <h2>My skills:</h2>
 <p>
-    <img src="https://skillicons.dev/icons?i=js,ts" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
